@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import ExresizeOne from "./pages/ExresizeOne";
 
 function App() {
-
   return (
     <>
-      <div>hello !</div>
+      <ExresizeOne />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
